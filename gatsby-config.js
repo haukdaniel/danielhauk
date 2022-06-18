@@ -1,22 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `GATSBY BLOG`,
+    title: `DANIEL.HAUK`,
     author: {
       name: `daniel.hauk`,
       summary: `Developer`,
-      selfIntroduction: `Hello, this is a place where you can introduce yourself. 
-      If you modify Gatsby-config,
-      you can customize it freely! Thank you.`,
+      selfIntroduction: `Hello, I'm Daniel, a full-stack developer from Nuremberg`,
     },
     description: `blog starter`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      git: `https://github.com`,
-      instagram: `https://www.instagram.com`,
+      git: `https://github.com/haukdaniel`,
       twitter: `https://twitter.com/?lang=ko`,
-      linkdein: `https://kr.linkedin.com`,
+      linkdein: `https://www.linkedin.com/in/daniel-hauk-382a26199/`,
       facebook: `https://facebook.com`,
-      mail: `admin@gmail.com`,
+      mail: `hauk.daniel@web.de`,
     },
     commentInfo: {
       service: 'utterances', // select utterances or disqus
